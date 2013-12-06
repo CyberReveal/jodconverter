@@ -21,8 +21,8 @@
     </license>
   </licenses>
   <scm>
-    <url>http://jodconverter.googlecode.com/svn/trunk/jodconverter-core</url>
-    <connection>scm:svn:https://jodconverter.googlecode.com/svn/trunk/jodconverter-core/</connection>
+    <url>https://github.com/CyberReveal/jodconverter</url>
+    <connection>scm:git:https://github.com/CyberReveal/jodconverter.git</connection>
   </scm>
   <inceptionYear>2003</inceptionYear>
   <developers>
